@@ -14,7 +14,7 @@ Back to the voltage object - one with mode INIT_REGULATOR will have the informat
 
 ## Example output
 
-I did not commit the example ROM images to GitHub - if you want the source package with the example ROMs included, you may fetch it off my site for the current (as of this writing) version: https://lovehindpa.ws/code/releases/wolfvoitool/wolfvoitool-0.7.tar.xz
+I did not commit the example ROM images to GitHub - if you want the source package with the example ROMs included, you may fetch it off my site for the current (as of this writing) version: https://lovehindpa.ws/code/releases/wolfvoitool/wolfvoitool-v0.7.tar.xz
 
 
 ```
